@@ -1,6 +1,6 @@
 # 👋 Hello, I'm a Python Developer  
 
-I have a passion for building **efficient, scalable, and reliable software solutions** that drive organizational success. My expertise spans microservices, ETL pipelines, real-time streaming, and LLM-powered applications with LangChain.
+I have a passion for building **efficient, scalable, and reliable software solutions** that drive organizational success. My expertise spans **microservices, ETL pipelines, real-time streaming, and LLM-powered applications with LangChain**.
  
 
 ---
