@@ -18,9 +18,47 @@ I have a passion for building **efficient, scalable, and reliable software solut
 
 ---
 
-## ⚡ Tech Stack  
+# 🚀 Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3.10%2B-blue)  ![FastAPI](https://img.shields.io/badge/Framework-FastAPI-teal)  ![LangChain](https://img.shields.io/badge/Orchestration-LangChain-yellow) ![SQL](https://img.shields.io/badge/Language-SQL-darkred) ![Node.js](https://img.shields.io/badge/Runtime-Node.js-brightgreen) ![Docker](https://img.shields.io/badge/Container-Docker-blueviolet)  ![Docker Compose](https://img.shields.io/badge/Container-Docker%20Compose-lightblue)   ![Apache Kafka](https://img.shields.io/badge/Streaming-Apache%20Kafka-orange)  ![Apache Spark](https://img.shields.io/badge/BigData-Apache%20Spark-yellowgreen)  ![Apache Iceberg](https://img.shields.io/badge/DataLake-Apache%20Iceberg-lightgrey)  ![MongoDB](https://img.shields.io/badge/Database-MongoDB-green)  ![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-blue)  ![Weaviate](https://img.shields.io/badge/VectorDB-Weaviate-orange)  ![Playwright](https://img.shields.io/badge/Testing-Playwright-brightgreen)   ![Prefect](https://img.shields.io/badge/Orchestration-Prefect-navy)  ![Apache Airflow](https://img.shields.io/badge/Orchestration-Apache%20Airflow-skyblue)  ![dbt](https://img.shields.io/badge/Transformation-dbt-red)  
+## 🖥️ Programming Languages
+![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Language-CC2927?style=for-the-badge&logo=postgresql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-Runtime-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+---
+
+## ⚡ Frameworks & Libraries
+![FastAPI](https://img.shields.io/badge/FastAPI-Framework-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-Orchestration-FFD43B?style=for-the-badge&logo=chainlink&logoColor=black)
+![Playwright](https://img.shields.io/badge/Playwright-Testing-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+
+---
+
+## 🗄️ Databases & Vector Stores
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-Database-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Weaviate](https://img.shields.io/badge/Weaviate-VectorDB-FF6F00?style=for-the-badge&logo=weaviate&logoColor=white)
+
+---
+
+## ☁️ Data Engineering & Big Data
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-BigData-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Apache Iceberg](https://img.shields.io/badge/Apache%20Iceberg-DataLake-00AEEF?style=for-the-badge&logo=databricks&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-Streaming-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-Transformation-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+
+---
+
+## 🔄 Orchestration & Workflow Automation
+![Prefect](https://img.shields.io/badge/Prefect-Orchestration-0A5FFF?style=for-the-badge&logo=prefect&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-Orchestration-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+
+---
+
+## 🐳 Containers & Deployment
+![Docker](https://img.shields.io/badge/Docker-Container-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker%20Compose-Container-1D63ED?style=for-the-badge&logo=docker&logoColor=white)
+ 
 ---
 
 ✨ Always learning, always building.  
