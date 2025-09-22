@@ -1,20 +1,30 @@
-# 👋 Hello, I'm a Python Developer  
+---
 
-I have a passion for building **efficient, scalable, and reliable software solutions** that drive organizational success. My expertise spans **microservices, ETL pipelines, real-time streaming, and LLM-powered applications with LangChain**.
- 
+# 👋 Hi, I'm Bello, a Python Developer!
+
+Welcome to my corner of GitHub! I specialize in building efficient, scalable, and reliable software solutions that span **microservices, data pipelines, intelligent bots, and LLM-powered applications**. My work focuses on solving real-world challenges through automation, data engineering, and AI-driven systems.
 
 ---
 
-## Core Expertise  
+## 🛠️ My Expertise
 
-- Develop robust **Python applications** with clean, maintainable code  
-- Design and optimize **RESTful APIs** and **microservices architectures**  
-- Automate repetitive **workflows** and **data processing pipelines**  
-- Work with relational and NoSQL databases (**PostgreSQL, MongoDB, etc.**)  
-- Implement **asynchronous processing** and **event-driven systems**  
-- Containerize and orchestrate environments with **Docker**  
-- Apply modern **DevOps practices**, including **CI/CD automation** and testing frameworks  
-- Integrate **third-party APIs** and **cloud-based services** for end-to-end solutions  
+🚀 **Microservices & APIs**
+I design and deploy microservices architectures with **FastAPI, Docker, and API Gateway**, ensuring seamless communication, scalability, and maintainability.
+
+📊 **Data Engineering & Pipelines**
+From **ETL workflows with Prefect & Airflow** to **real-time streaming with Kafka, Spark, and Iceberg**, I orchestrate end-to-end pipelines that transform raw data into analytics-ready datasets.
+
+🗄️ **Databases & Storage**
+Experienced with **PostgreSQL, MongoDB, Weaviate, and AWS S3**, I optimize both structured and unstructured data storage and retrieval.
+
+🤖 **Intelligent Automation & Bots**
+I build intelligent **Telegram bots** for **inventory management and Nigerian Virtual Top-Up services**, automating tasks and transactions at scale.
+
+🧠 **LLM-Powered Applications**
+I integrate **LangChain, OpenRouter, and Pydantic** to build retrieval-augmented generation (RAG) systems, intelligent parsers, and advanced AI-driven workflows.
+
+🕸️ **Web Scraping & Data Extraction**
+I automate **large-scale scraping with Playwright and Bright Data**, delivering structured, clean datasets for analytics and decision-making.
 
 ---
 
