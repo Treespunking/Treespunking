@@ -9,22 +9,16 @@ Welcome to my corner of GitHub! I specialize in building efficient, scalable, an
 ## 🛠️ My Expertise
 
 🚀 **Microservices & APIs**
-I design and deploy microservices architectures with **FastAPI, Docker, and API Gateway**, ensuring seamless communication, scalability, and maintainability.
 
 📊 **Data Engineering & Pipelines**
-From **ETL workflows with dbt, Prefect & Airflow** to **real-time streaming with Kafka, Spark, and Iceberg**, I orchestrate end-to-end pipelines that transform raw data into analytics-ready datasets.
 
 🗄️ **Databases & Storage**
-Experienced with **PostgreSQL, MongoDB, Weaviate, and AWS S3**, I optimize both structured and unstructured data storage and retrieval.
 
 🤖 **Intelligent Automation & Bots**
-I build intelligent **Telegram bots** for **inventory management and Nigerian Virtual Top-Up services**, automating tasks and transactions at scale.
 
 🧠 **LLM-Powered Applications**
-I integrate **LangChain, OpenRouter, and Pydantic** to build retrieval-augmented generation (RAG) systems, intelligent parsers, and advanced AI-driven workflows.
 
 🕸️ **Web Scraping & Data Extraction**
-I automate **large-scale scraping with Playwright and Bright Data**, delivering structured, clean datasets for analytics and decision-making.
 
 ---
 
