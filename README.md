@@ -18,8 +18,6 @@ Welcome to my corner of GitHub! I specialize in building efficient, scalable, an
 
 🧠 **LLM-Powered Applications**
 
-🕸️ **Web Scraping & Data Extraction**
-
 ---
 
 # 🚀 Tech Stack
