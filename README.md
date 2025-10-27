@@ -1,6 +1,6 @@
 ---
 
-# 👋 Hi, I'm Bello, a Python Developer!
+# 👋 Hi, I'm Bello, a Data | AI Engineer!
 
 Welcome to my corner of GitHub! I specialize in building efficient, scalable, and reliable software solutions that span **microservices, data pipelines, intelligent bots, and LLM-powered applications**. My work focuses on solving real-world challenges through automation, data engineering, and AI-driven systems.
 
